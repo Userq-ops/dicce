@@ -1,0 +1,44 @@
+   .dialogtext {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    
+    .italic {
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    .dialogtext {
+        font-weight: bold;
+    }
+
+    body { 
+        background-color: yellow; 
+    } 
+
+    h1 { 
+        font-style: italic; 
+        color: rgb(38, 0, 255); 
+        font-weight: bold; 
+    } 
+
+    .character { 
+        font-weight: bold; 
+    } 
+
+    .alladin { 
+        color: rgb(255, 0, 0); 
+    } 
+
+    .genie { 
+        color: purple; 
+    } 
+
+    .jasmine { 
+        color: green; 
+    } 
+
+    .farouk { 
+        color: blue; 
+    } 
+
